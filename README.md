@@ -13,10 +13,10 @@ I build practical, AI-powered applications — not chasing ML theory, but focuse
 `JavaScript` `TypeScript` `Node.js` `React` — now adding LLM APIs, RAG pipelines, and agent frameworks
 
 ## 📌 Featured projects
-*(pin 3-5 repos here that show applied AI work)*
+
 
 ## 📫 Let's connect
-[LinkedIn] · [https://www.linkedin.com/in/yujiarima/]
+LinkedIn · [https://www.linkedin.com/in/yujiarima/]
 
 ---
 *Currently building in public — following along as I make this shift.*
