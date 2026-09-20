@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm [Yuji Arima] 👋
 
-<!--
-**dev-arima/dev-arima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer (Node.js / React) transitioning into AI Engineering**
 
-Here are some ideas to get you started:
+I build practical, AI-powered applications — not chasing ML theory, but focused on applying the right AI tools to solve real problems fast. My goal: become the person people turn to when they ask "which AI should I use for this?"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+- Building RAG-based tools and AI agents on top of my full-stack foundation
+- Exploring MCP (Model Context Protocol) integrations
+- Documenting my journey from full-stack dev → AI engineer
+
+## 🛠️ Stack
+`JavaScript` `TypeScript` `Node.js` `React` — now adding LLM APIs, RAG pipelines, and agent frameworks
+
+## 📌 Featured projects
+*(pin 3-5 repos here that show applied AI work)*
+
+## 📫 Let's connect
+[LinkedIn] · [https://www.linkedin.com/in/yujiarima/]
+
+---
+*Currently building in public — following along as I make this shift.*
