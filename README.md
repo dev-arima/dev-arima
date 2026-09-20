@@ -1,4 +1,4 @@
-# Hi, I'm [Yuji Arima] 👋
+# Hi, I'm Yuji Arima 👋
 
 **Full-Stack Developer (Node.js / React) transitioning into AI Engineering**
 
